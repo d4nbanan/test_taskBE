@@ -1,0 +1,152 @@
+[
+  {
+    "first_name": "Arlie",
+    "last_name": "Fairbanks",
+    "country": "Poland",
+    "gender": "Female",
+    "age": 18,
+    "id": "62fe9d7bc48d73133bef7456",
+    "username": "user1",
+    "password": "test_task"
+  },
+  {
+    "first_name": "Adriaens",
+    "last_name": "Kettlestring",
+    "country": "Poland",
+    "gender": "Female",
+    "age": 19,
+    "id": "62fea018d8dd3bc58d94e9b5",
+    "username": "user2",
+    "password": "test_task"
+  },
+  {
+    "first_name": "Frank",
+    "last_name": "Kenewell",
+    "country": "Greece",
+    "gender": "Female",
+    "age": 20,
+    "id": "62fea01f19d3c8d85ab12a78",
+    "username": "user3",
+    "password": "test_task"
+  },
+  {
+    "first_name": "Claresta",
+    "last_name": "Kehri",
+    "country": "Poland",
+    "gender": "Female",
+    "age": 17,
+    "id": "62fea027c8e69688cb777406",
+    "username": "user4",
+    "password": "test_task"
+  },
+  {
+    "first_name": "Gelya",
+    "last_name": "Greenhill",
+    "country": "Poland",
+    "gender": "Female",
+    "age": 21,
+    "id": "62fea02e346ed31469412631",
+    "username": "user5",
+    "password": "test_task"
+  },
+  {
+    "first_name": "Stefania",
+    "last_name": "Tindle",
+    "country": "Bulgaria",
+    "gender": "Female",
+    "age": 21,
+    "id": "62fea034126406e1acabb87c",
+    "username": "user6",
+    "password": "test_task"
+  },
+  {
+    "first_name": "Carolann",
+    "last_name": "Kewzick",
+    "country": "Poland",
+    "gender": "Female",
+    "age": 22,
+    "id": "62fea03885634b7d4eeeafc7",
+    "username": "user7",
+    "password": "test_task"
+  },
+  {
+    "first_name": "Ashlin",
+    "last_name": "Edensor",
+    "country": "Poland",
+    "gender": "Male",
+    "age": 36,
+    "id": "62fea03be30f4abe45b69d63",
+    "username": "user8",
+    "password": "test_task"
+  },
+  {
+    "first_name": "Abner",
+    "last_name": "Demeza",
+    "country": "Poland",
+    "gender": "Male",
+    "age": 46,
+    "id": "62fea03ead4d3f6d9274c4ba",
+    "username": "user9",
+    "password": "test_task"
+  },
+  {
+    "first_name": "Tome",
+    "last_name": "Abbets",
+    "country": "Ukraine",
+    "gender": "Male",
+    "age": 32,
+    "id": "62fea043d0cb0b071be195ab",
+    "username": "user10",
+    "password": "test_task"
+  },
+  {
+    "first_name": "Markos",
+    "last_name": "Proudlove",
+    "country": "Ukraine",
+    "gender": "Male",
+    "age": 52,
+    "id": "62fea047b919bf622fdc5363",
+    "username": "user11",
+    "password": "test_task"
+  },
+  {
+    "first_name": "Homer",
+    "last_name": "Butland",
+    "country": "Poland",
+    "gender": "Male",
+    "age": 22,
+    "id": "62fea04a3c7f239f3c76d565",
+    "username": "user12",
+    "password": "test_task"
+  },
+  {
+    "first_name": "Arte",
+    "last_name": "Downer",
+    "country": "Benin",
+    "gender": "Male",
+    "age": 24,
+    "id": "62fea04e8e918aa46a5d582c",
+    "username": "user13",
+    "password": "test_task"
+  },
+  {
+    "first_name": "Darius",
+    "last_name": "Lindstedt",
+    "country": "Ukraine",
+    "gender": "Male",
+    "age": 31,
+    "id": "62fea052dcedc84dd7051f35",
+    "username": "user14",
+    "password": "test_task"
+  },
+  {
+    "first_name": "Sara",
+    "last_name": "Whittet",
+    "country": "Ukraine",
+    "gender": "Female",
+    "age": 16,
+    "id": "62fea058811c37a381de94e4",
+    "username": "user15",
+    "password": "test_task"
+  }
+]
