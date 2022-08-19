@@ -8,3 +8,4 @@ In the project directory, you can run:
 
 ### `nodemon app.js`
 
+### `running on localhost:1337`
